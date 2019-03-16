@@ -1,0 +1,6 @@
+C:\Users\unk\source\repos\Stub\Stub\bin\Debug\Stub.exe.config
+C:\Users\unk\source\repos\Stub\Stub\bin\Debug\Stub.exe
+C:\Users\unk\source\repos\Stub\Stub\bin\Debug\Stub.pdb
+C:\Users\unk\source\repos\Stub\Stub\obj\Debug\Stub.csproj.CoreCompileInputs.cache
+C:\Users\unk\source\repos\Stub\Stub\obj\Debug\Stub.exe
+C:\Users\unk\source\repos\Stub\Stub\obj\Debug\Stub.pdb
